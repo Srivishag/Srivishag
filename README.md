@@ -1,5 +1,6 @@
-![MasterHead](https://github.com/Srivishag/Srivishag/assets/91311329/0936f74e-28da-4c83-9477-9bdaf3f6f22b)
+![MasterHead](https://github.com/Srivishag/Srivishag/assets/91311329/14b0f32a-cbb4-4731-a7fa-7597703b61fc)
 <h1 align="center">Hi 👋, I'm Srivishag</h1>
+
 
 <h3 align="center">A passionate Student</h3>
 <p align="left"><img src="https://institute.careerguide.com/wp-content/uploads/2020/10/e426702edf874b181aced1e2fa5c6cde.gif" align="right" alt="Coding" width="400" />
